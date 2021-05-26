@@ -3,7 +3,7 @@
     {
       "method": "GET",
       "path": "/",
-      "handler": "admin-tree.index",
+      "handler": "tree.index",
       "config": {
         "policies": []
       }

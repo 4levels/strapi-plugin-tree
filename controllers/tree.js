@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * admin-tree.js controller
+ * tree.js controller
  *
- * @description: A set of functions called "actions" of the `admin-tree` plugin.
+ * @description: A set of functions called "actions" of the `tree` plugin.
  */
 
 module.exports = {

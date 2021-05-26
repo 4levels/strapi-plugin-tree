@@ -1,11 +1,11 @@
 {
-  "name": "strapi-plugin-admin-tree",
+  "name": "strapi-plugin-tree",
   "version": "0.0.0",
   "description": "This is the description of the plugin.",
   "strapi": {
     "name": "Tree",
     "icon": "tree",
-    "description": "Description of admin-tree plugin."
+    "description": "Description of tree plugin."
   },
   "dependencies": {
     "rc-tree": "^4.1.5"
